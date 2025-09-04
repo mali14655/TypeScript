@@ -3,6 +3,8 @@
     "outDir": "./dist",
     "rootDir": "./src",
     "target": "es6",
-    "strict": true,
+    "strict": true,    // main switch which on all the strcitness i=ior checkers and thenn we can explicity on and off any one we want
+    "noImplicitAny": false,
+    "strictNullChecks": false
   }
 }
