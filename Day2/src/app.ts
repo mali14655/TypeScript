@@ -22,3 +22,13 @@ console.log(names,names);
 
 let numbers:Array<number>=[1,2,3,4,5,5];
 console.log(numbers)
+
+// any
+
+// let new_name;
+let new_name:any;
+function getNewName(){
+    return "ALI"
+}
+
+new_name=getNewName();

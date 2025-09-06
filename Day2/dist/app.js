@@ -1,3 +1,4 @@
+"use strict";
 // types
 const myName = "muhammad ali";
 let userId = 10.4;
@@ -14,3 +15,10 @@ let names2 = [
 console.log(names, names);
 let numbers = [1, 2, 3, 4, 5, 5];
 console.log(numbers);
+// any
+// let new_name;
+let new_name;
+function getNewName() {
+    return "ALI";
+}
+new_name = getNewName();

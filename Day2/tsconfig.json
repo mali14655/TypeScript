@@ -3,6 +3,7 @@
     "outDir": "./dist",
     "rootDir": "./src",
     "target": "es6",
-    // "strict": true
+    "strict": true,
+    "noImplicitAny": true,
   }
 }
