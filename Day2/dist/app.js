@@ -19,6 +19,6 @@ console.log(numbers);
 // let new_name;
 let new_name;
 function getNewName() {
-    return "ALI";
+    return true;
 }
 new_name = getNewName();

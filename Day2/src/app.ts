@@ -26,9 +26,9 @@ console.log(numbers)
 // any
 
 // let new_name;
-let new_name:any;
+let new_name;
 function getNewName(){
-    return "ALI"
+    return true;
 }
 
 new_name=getNewName();

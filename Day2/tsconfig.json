@@ -4,6 +4,6 @@
     "rootDir": "./src",
     "target": "es6",
     "strict": true,
-    "noImplicitAny": true,
+    "noImplicitAny": true
   }
 }
